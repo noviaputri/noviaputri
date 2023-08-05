@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Novia Putri 👋
 
+### I'm a Girl, Friend, and Data Enthusiast!
+- 🌱 I’m currently learning Data Science, Data Analytics, and Website Development
+- ⚡ Fun fact : I love drawing and baking
 <!--
 **noviaputri/noviaputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
